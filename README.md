@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Xin chào! Tôi là Lập  
 
-<!--
-**lap2004/lap2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Giới thiệu  
+Tôi là một lập trình viên đam mê khám phá và xây dựng các giải pháp công nghệ sáng tạo. Với kinh nghiệm trong AI, tôi yêu thích việc học hỏi và áp dụng các công nghệ mới vào thực tế.
 
-Here are some ideas to get you started:
+### 💻 Kỹ năng chính
+- **Ngôn ngữ lập trình**: [JavaScript, Python]
+- **Công nghệ và framework**: [Django, Flask,Streamlit]
+- **Dữ liệu và AI**:Machine Learning, Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Dự án nổi bật
+- **[Build-An-LLM-RAG-Chatbot-With-LangChain-Python-main]**: [Xây dựng Chatbot AI sử dụng LangChain và Python]
+- **[Flan-T5]**: [Xây dựng Chatbot AI sử dụng Flan-T5 và Python]
+
+### 🌱 Định hướng phát triển
+Tôi luôn muốn học hỏi thêm về:
+- AI/ML
+
+### 🤝 Liên hệ
+- **Email**: [lapthai03@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/l%E1%BA%ADp-th%C3%A1i-vi%E1%BA%BFt-912210317/]
+- **GitHub**: [https://github.com/lap2004 ]
+
+Cảm ơn bạn đã ghé thăm! Nếu bạn muốn trao đổi hoặc cộng tác, đừng ngần ngại liên hệ với tôi. 😊
