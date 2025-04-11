@@ -4,9 +4,9 @@
 Tôi là một lập trình viên đam mê khám phá và xây dựng các giải pháp công nghệ sáng tạo. Với kinh nghiệm trong AI, tôi yêu thích việc học hỏi và áp dụng các công nghệ mới vào thực tế.
 
 ### 💻 Kỹ năng chính
-- **Ngôn ngữ lập trình**: [JavaScript, Python]
-- **Công nghệ và framework**: [Django, Flask,Streamlit]
-- **Dữ liệu và AI**:Machine Learning, Deep Learning
+- **Ngôn ngữ lập trình**: JavaScript, Python, Java.
+- **Công nghệ và framework**: Git, Docker, Django, Flask, Spring Boot.
+- **Dữ liệu và AI**:Machine Learning, Deep Learning, Computer Vision.
 
 ### 🚀 Dự án nổi bật
 - **[Build-An-LLM-RAG-Chatbot-With-LangChain-Python]**: [Xây dựng Chatbot AI sử dụng LangChain và Python]
