@@ -9,9 +9,9 @@ Tôi là một lập trình viên đam mê khám phá và xây dựng các giả
 - **Dữ liệu và AI**: Machine Learning, Deep Learning, Computer Vision.
 
 ###  Dự án nổi bật
-- **[Build-An-LLM-RAG-Chatbot-With-LangChain-Python]**: Xây dựng Chatbot AI sử dụng LangChain và Python
-- **[Flan-T5]**: Xây dựng Chatbot AI sử dụng Flan-T5 và Python
-- **[Qwen1.5-0.5B]**: Xây dựng Chatbot AI sử dụng Qwen1.5-0.5B và LoRA
+- **Build-An-LLM-RAG-Chatbot-With-LangChain-Python**: Xây dựng Chatbot AI sử dụng LangChain và Python
+- **Flan-T5**: Xây dựng Chatbot AI sử dụng Flan-T5 và Python
+- **Qwen1.5-0.5B**: Xây dựng Chatbot AI sử dụng Qwen1.5-0.5B và LoRA
 
 ###  Định hướng phát triển
 Tôi luôn muốn học hỏi thêm về:
