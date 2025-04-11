@@ -19,7 +19,7 @@ Tôi luôn muốn học hỏi thêm về:
 
 ###  Liên hệ
 - **Email**: lapthai03@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/l%E1%BA%ADp-th%C3%A1i-vi%E1%BA%BFt-912210317/
+- **LinkedIn**: [https://www.linkedin.com/in/l%E1%BA%ADp-th%C3%A1i-vi%E1%BA%BFt-912210317/](https://www.linkedin.com/in/lap-thai-viet-912210317/)
 - **GitHub**: https://github.com/lap2004
 
 Cảm ơn bạn đã ghé thăm! Nếu bạn muốn trao đổi hoặc cộng tác, đừng ngần ngại liên hệ với tôi. 😊
