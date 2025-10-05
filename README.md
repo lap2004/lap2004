@@ -1,6 +1,6 @@
-# 👋 Xin chào! Tôi là Lập  
+# Xin chào! Tôi là Lập  
 
-### 🛠 Giới thiệu  
+### Giới thiệu  
 Tôi là một lập trình viên đam mê khám phá và xây dựng các giải pháp công nghệ sáng tạo. Với kinh nghiệm trong AI, tôi yêu thích việc học hỏi và áp dụng các công nghệ mới vào thực tế.
 
 ###  Kỹ năng chính
@@ -12,6 +12,7 @@ Tôi là một lập trình viên đam mê khám phá và xây dựng các giả
 - **Build-An-LLM-RAG-Chatbot-With-LangChain-Python**: Xây dựng Chatbot AI sử dụng LangChain và Python
 - **Flan-T5**: Xây dựng Chatbot AI sử dụng Flan-T5 và Python
 - **Qwen1.5-0.5B**: Xây dựng Chatbot AI sử dụng Qwen1.5-0.5B và LoRA
+- **Van Lang Admissions Consulting Chatbot**: Xâu đựng ChatBot AI tư vấn tuyển sinh cho Đại Học Văn Lang
 
 ###  Định hướng phát triển
 Tôi luôn muốn học hỏi thêm về:
