@@ -22,10 +22,11 @@ Tôi yêu thích việc biến ý tưởng thành những sản phẩm AI thực
 
 ### **Frameworks & Tools**
 - LangChain · HuggingFace Transformers  
-- FastAPI · Flask · Django  
+- FastAPI · Flask · FastAPI  
 - Docker · Git  
 - OpenCV · Tesseract OCR · Selenium  
 - Streamlit · Conda
+- AI Tool · Cvat.ai · Roboflow
 
 ## ⭐ Dự án nổi bật
 
@@ -47,7 +48,6 @@ Tôi đang tập trung nâng cao chuyên môn về:
 - Computer Vision nâng cao
 - Triển khai mô hình AI dạng microservices
 - Xây dựng các sản phẩm AI thực chiến
-
 
 ## Liên hệ
 - **Email:** <lapthai03@gmail.com>  
