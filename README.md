@@ -1,57 +1,51 @@
-# Xin chào, tôi là **Thái Viết Lập**
+# 🧠 Xin chào, tôi là Thái Viết Lập (LapThai)
+### 🚀 AI Engineer | LLM & RAG Specialist | K28 CNTT - Văn Lang University
 
-Một lập trình viên trẻ đam mê **AI/ML**, đặc biệt trong lĩnh vực **Large Language Models (LLMs)**, **RAG systems**, và **Computer Vision**.  
-Tôi yêu thích việc biến ý tưởng thành những sản phẩm AI thực tế, tối ưu hoá mô hình, triển khai microservices và xây dựng các ứng dụng hữu ích cho người dùng.
+Tôi tập trung vào việc nghiên cứu và triển khai các hệ thống **Generative AI** thực chiến. Thế mạnh của tôi là tối ưu hóa mô hình qua **Fine-tuning** và xây dựng kiến trúc **RAG** (Retrieval-Augmented Generation) để giải quyết các bài toán dữ liệu lớn.
 
-## Giới thiệu nhanh
-- Sinh viên năm 3 ngành Công nghệ Thông tin – định hướng **Trí tuệ Nhân tạo (AI)**.  
-- Kinh nghiệm xây dựng các hệ thống AI từ A → Z: crawling dữ liệu, OCR, NLP, embedding, RAG, fine-tuning.  
-- Tư duy học hỏi chủ động, thích nghiên cứu công nghệ mới và phát triển mô hình AI phục vụ thực tế.  
-- Mục tiêu trở thành **AI Engineer / LLM Engineer** trong các dự án có tác động lớn.
+---
 
-## Kỹ năng chính
+## 🛠️ Kỹ năng chuyên môn
 
-### **Ngôn ngữ lập trình**
-- Python · JavaScript · Java
+- **LLM Tech:** LangChain, RAG Pipeline, Fine-tuning (LoRA, PEFT), Prompt Engineering.
+- **Models:** Qwen, Flan-T5, LLaMA, GPT, YOLO (v8/v11).
+- **Backend/AI Ops:** Docker, FastAPI, Flask, ChromaDB, Qdrant, Milvus.
+- **Data/CV:** Tesseract OCR, Selenium, OpenCV, Cvat.ai.
 
-### **AI / Machine Learning**
-- Deep Learning · Transformers · NLP · LLM  
-- Fine-tuning (LoRA, PEFT)  
-- RAG pipeline, Semantic Search  
-- Computer Vision (YOLOv8/YOLOv11, OpenCV)
+---
 
-### **Frameworks & Tools**
-- LangChain · HuggingFace Transformers  
-- FastAPI · Flask · FastAPI  
-- Docker · Git  
-- OpenCV · Tesseract OCR · Selenium  
-- Streamlit · Conda
-- AI Tool · Cvat.ai · Roboflow
+## ⭐ Dự án trọng tâm
 
-## ⭐ Dự án nổi bật
+### 🎓 [Chatbot Tư vấn Tuyển sinh Đại học Văn Lang](https://github.com/lap2004/vlu-smart-booking)
+*Hệ thống RAG hỗ trợ giải đáp thông tin tuyển sinh tự động.*
+- **Công nghệ:** LangChain, Qdrant (Vector DB), Tesseract OCR để xử lý file PDF/Web, Docker.
+- **Giải pháp:** Xây dựng pipeline xử lý dữ liệu từ nhiều nguồn (PDF, Web crawling) và cung cấp câu trả lời chính xác dựa trên ngữ cảnh thực tế của trường.
 
-### **RAG Chatbot với LangChain & Python**
-Xây dựng chatbot sử dụng LangChain, Milvus/Qdrant, embedding + retrieval, LLaMA2/Ollama.
+### 🩺 [Chatbot Voice AI Bác sĩ](https://github.com/lap2004/voice_ai)
+*Trợ lý ảo y tế tương tác qua giọng nói.*
+- **Công nghệ:** Speech-to-Text (STT), Text-to-Speech (TTS), LLM Inference.
+- **Tính năng:** Cho phép người dùng giao tiếp bằng giọng nói, chatbot phân tích triệu chứng và đưa ra lời khuyên y tế sơ bộ nhanh chóng.
 
-### **Chatbot Flan-T5 (Fine-tuning + LoRA)**
-Tinh chỉnh Flan-T5 cho tiếng Việt, triển khai chatbot bằng HuggingFace + Streamlit.
+### ⛓️ [LangChain RAG Engine](https://github.com/lap2004/langchain-rag-engine)
+*Kiến trúc RAG tiêu chuẩn cho doanh nghiệp.*
+- **Công nghệ:** LangChain, OpenAI/Ollama, Docker-Compose.
+- **Điểm nhấn:** Dự án được đóng gói hoàn toàn bằng Docker, hỗ trợ tích hợp nhiều loại Vector Database khác nhau để tìm kiếm ngữ nghĩa (Semantic Search).
 
-### **Qwen1.5–0.5B Fine-tuning**
-Fine-tune mô hình Qwen với LoRA/PEFT để cải thiện hội thoại & hỗ trợ tiếng Việt.
+### 🧪 [Fine-tuning Flan-T5 & Qwen 1.5](https://github.com/lap2004/Psyche-Qwen)
+*Tối ưu hóa mô hình ngôn ngữ cho tác vụ chuyên biệt.*
+- **Dự án 1:** **Flan-T5 Chatbot** - Tinh chỉnh mô hình Flan-T5 để hiểu và phản hồi hội thoại tự nhiên hơn.
+- **Dự án 2:** **Qwen1.5–0.5B Fine-tuning** - Sử dụng kỹ thuật **LoRA/PEFT** để huấn luyện mô hình nhẹ nhưng đạt hiệu suất cao trong các cuộc hội thoại tiếng Việt.
 
-### **Chatbot Tư vấn Tuyển sinh Đại học Văn Lang**
-Hệ thống RAG sử dụng OCR (Tesseract/PyMuPDF), crawling PDF/web, Qdrant & Docker.
+---
 
-## Định hướng phát triển
-Tôi đang tập trung nâng cao chuyên môn về:
-- LLM Engineering (RAG, Fine-Tuning, Prompting)
-- Computer Vision nâng cao
-- Triển khai mô hình AI dạng microservices
-- Xây dựng các sản phẩm AI thực chiến
+## 📈 Định hướng & Mục tiêu
+- **LLM Engineering:** Phát triển các hệ thống Agentic RAG (AI có khả năng tự suy luận và thực hiện hành động).
+- **AI Deployment:** Tối ưu hóa việc triển khai mô hình LLM trên các thiết bị phần cứng hạn chế.
 
-## Liên hệ
-- **Email:** <lapthai03@gmail.com>  
-- **LinkedIn:** [https://www.linkedin.com/in/lap-thai-viet-912210317/](https://www.linkedin.com/in/lap-thai-912210317/)  
-- **GitHub:** https://github.com/lap2004  
+## 📫 Kết nối với tôi
+- **Email:** [lapthai03@gmail.com](mailto:lapthai03@gmail.com)
+- **LinkedIn:** [linkedin.com/in/lap-thai-912210317/](https://www.linkedin.com/in/lap-thai-912210317/)
+- **GitHub:** [github.com/lap2004](https://github.com/lap2004)
 
-*Cảm ơn bạn đã ghé thăm! Nếu bạn quan tâm đến AI hoặc muốn hợp tác trong các dự án thú vị, đừng ngần ngại liên hệ với tôi.*  
+---
+*“Biến những dòng code thành giải pháp AI mang lại giá trị thực tế.”*
