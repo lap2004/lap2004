@@ -18,11 +18,13 @@ Tôi tập trung vào việc nghiên cứu và triển khai các hệ thống **
 
 ### 🎓 [Chatbot Tư vấn Tuyển sinh Đại học Văn Lang](https://github.com/lap2004/vlu-smart-booking)
 *Hệ thống RAG hỗ trợ giải đáp thông tin tuyển sinh tự động.*
+- **Demo:** [https://chatbot-vlu.vercel.app/](https://chatbot-vlu.vercel.app/)
 - **Công nghệ:** LangChain, Qdrant (Vector DB), Tesseract OCR để xử lý file PDF/Web, Docker.
 - **Giải pháp:** Xây dựng pipeline xử lý dữ liệu từ nhiều nguồn (PDF, Web crawling) và cung cấp câu trả lời chính xác dựa trên ngữ cảnh thực tế của trường.
 
 ### 🩺 [Chatbot Voice AI Bác sĩ](https://github.com/lap2004/voice_ai)
 *Trợ lý ảo y tế tương tác qua giọng nói.*
+- **Demo:** [https://kltn-vlu.vercel.app/](https://kltn-vlu.vercel.app/)
 - **Công nghệ:** Speech-to-Text (STT), Text-to-Speech (TTS), LLM Inference.
 - **Tính năng:** Cho phép người dùng giao tiếp bằng giọng nói, chatbot phân tích triệu chứng và đưa ra lời khuyên y tế sơ bộ nhanh chóng.
 
