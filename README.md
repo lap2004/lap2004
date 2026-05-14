@@ -1,8 +1,8 @@
 # Xin chào, tôi là Thái Viết Lập (LapThai)
 ### AI Engineer | LLM & RAG Specialist | K28 CNTT - Văn Lang University
 
-Tôi tập trung vào việc nghiên cứu và triển khai các hệ thống **Generative AI** thực chiến. Thế mạnh của tôi là tối ưu hóa mô hình qua **Fine-tuning** và xây dựng kiến trúc **RAG** (Retrieval-Augmented Generation) để giải quyết các bài toán dữ liệu lớn.
-
+Thế mạnh của tôi là tối ưu hóa mô hình qua **Fine-tuning** và xây dựng kiến trúc **RAG** (Retrieval-Augmented Generation) để giải quyết các bài toán dữ liệu lớn.
+Tôi tập trung vào việc nghiên cứu và triển khai các hệ thống AI thực chiến. Thế mạnh của tôi là sự giao thoa giữa Xử lý ngôn ngữ tự nhiên (NLP) và Thị giác máy tính (Computer Vision), từ việc tối ưu hóa mô hình qua **Fine-tuning** đến xây dựng kiến trúc **RAG** (Retrieval-Augmented Generation) để giải quyết các bài toán dữ liệu lớn và xây dựng các hệ thống phân tích hình ảnh y tế và công nghiệp chuyên sâu .
 ---
 
 ## Kỹ năng chuyên môn
