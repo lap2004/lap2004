@@ -8,9 +8,9 @@ Tôi tập trung vào việc nghiên cứu và triển khai các hệ thống AI
 
 ## Kỹ năng chuyên môn
 
-- **LLM Tech:** LangChain, RAG Pipeline, Fine-tuning (LoRA, PEFT), Prompt Engineering.
-- **Models:** Qwen, Flan-T5, LLaMA, GPT, YOLO (v8/v11).
-- **Backend/AI Ops:** Docker, FastAPI, Flask, ChromaDB, Qdrant, Milvus.
+- **LLM Tech:** LangChain, RAG Pipeline, Fine-tuning (LoRA, PEFT), Prompt Engineering, Vision Transformer (ViT), Segment Anything Model (SAM).
+- **Models:** Qwen, Flan-T5, LLaMA, GPT, YOLO (v8/v11), ONNX Runtime.
+- **Backend/AI Ops:** Docker, FastAPI, Flask, ChromaDB, Qdrant,PostgreSQL.
 - **Data/CV:** Tesseract OCR, Selenium, OpenCV, Cvat.ai.
 
 ---
