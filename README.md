@@ -23,7 +23,7 @@ Tôi tập trung vào việc nghiên cứu và triển khai các hệ thống AI
 - **Công nghệ:** RAG, PosgreSQL (Vector DB), Tesseract OCR để xử lý file PDF/Web, Docker.
 - **Giải pháp:** Xây dựng pipeline xử lý dữ liệu từ nhiều nguồn (PDF, Web crawling) và cung cấp câu trả lời chính xác dựa trên ngữ cảnh thực tế của trường.
 
-### [Chatbot Voice AI Bác sĩ](https://github.com/lap2004/voice_ai)
+### [Chatbot Voice AI Bác sĩ](https://github.com/lap2004/ai-medical-chatbot)
 *Trợ lý ảo y tế tương tác qua giọng nói.*
 - **Demo:** [https://kltn-vlu.vercel.app/](https://kltn-vlu.vercel.app/)
 - **Công nghệ:** Speech-to-Text (STT), Text-to-Speech (TTS), LLM Inference.
