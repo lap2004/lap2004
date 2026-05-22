@@ -17,7 +17,7 @@ Tôi tập trung vào việc nghiên cứu và triển khai các hệ thống AI
 
 ## Dự án trọng tâm
 
-### [Chatbot Tư vấn Tuyển sinh Đại học Văn Lang](https://github.com/lap2004/vlu-smart-booking)
+### [Chatbot Tư vấn Tuyển sinh Đại học Văn Lang](https://github.com/lap2004/admission-consulting-system)
 *Hệ thống RAG hỗ trợ giải đáp thông tin tuyển sinh tự động.*
 - **Demo:** [https://vlu-chatbot.vercel.app](https://vlu-chatbot.vercel.app/)
 - **Công nghệ:** RAG, PosgreSQL (Vector DB), Tesseract OCR để xử lý file PDF/Web, Docker.
