@@ -31,6 +31,7 @@ Tôi tập trung vào việc nghiên cứu và triển khai các hệ thống AI
 
 ### [COVID-19 Radiography - Hệ thống sàng lọc bệnh lý hô hấp](https://github.com/lap2004/COVID-19-Radiography)
 *Phân loại tự động tổn thương phổi (COVID-19, Lung Opacity, Viral Pneumonia, Normal) từ ảnh Chest X-Ray.*
+- **Demo:** [https://huggingface.co/spaces/lap2004/COVID-19-Radiography](https://huggingface.co/spaces/lap2004/COVID-19-Radiography)
 - **Dữ liệu:** 21,165 ảnh từ bộ dữ liệu chuẩn quốc tế COVID-19 Radiography Database trên Kaggle (tỷ lệ 80% Train / 20% Val).
 - **Công nghệ:** Mô hình siêu nhẹ YOLOv8n-cls (~1.44M params), ảnh chuẩn hóa 256x256. Huấn luyện bằng GPU Tesla T4.
 - **Kết quả:** Đạt Top-1 Accuracy 94.99% sau 15 epochs. Đường loss hội tụ lý tưởng (Perfect Convergence). Tốc độ suy luận siêu tốc 0.5 ms/ảnh (~2,000 FPS), tối ưu cho thiết bị phần cứng hạn chế.
