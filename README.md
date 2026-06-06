@@ -1,10 +1,10 @@
 # Hi, I'm Thái Viết Lập (Lap Thai)
 
-### AI Engineer | LLM & RAG Specialist | Information Systems Student at Van Lang University
+### AI Engineer | Computer Vision | LLM & RAG Specialist | Information Systems Student at Van Lang University
 
-I specialize in building intelligent AI systems by combining **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **Computer Vision** technologies.
+I specialize in building intelligent AI systems by combining Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Computer Vision technologies.
 
-My focus is on researching and developing real-world AI solutions, ranging from **LLM fine-tuning** and **agentic RAG systems** to advanced **medical and industrial image analysis applications**. I am particularly interested in bridging the gap between **Natural Language Processing (NLP)** and **Computer Vision** to create scalable, practical, and impactful AI products.
+My focus is on researching and developing real-world AI solutions, ranging from LLM fine-tuning and agentic RAG systems to advanced medical and industrial image analysis applications. I am particularly interested in bridging the gap between Natural Language Processing (NLP) and Computer Vision to create scalable, practical, and impactful AI products.
 
 ---
 
@@ -86,7 +86,7 @@ My focus is on researching and developing real-world AI solutions, ranging from 
 * **Demo:** https://huggingface.co/spaces/lap2004/COVID-19-Radiography
 * **Dataset:** 21,165 Chest X-Ray images from the COVID-19 Radiography Database (80% training, 20% validation).
 * **Technologies:** YOLOv8n-cls (~1.44M parameters), 256×256 image preprocessing, Tesla T4 GPU training.
-* **Results:** Achieved **94.99% Top-1 Accuracy** after 15 epochs with excellent convergence behavior and ultra-fast inference speed of approximately **0.5 ms/image (~2,000 FPS)**, making it suitable for resource-constrained environments.
+* **Results:** Achieved **94.99%** Top-1 Accuracy after 15 epochs with excellent convergence behavior and ultra-fast inference speed of approximately 0.5 ms/image (~2,000 FPS), making it suitable for resource-constrained environments.
 
 ---
 
@@ -96,9 +96,9 @@ My focus is on researching and developing real-world AI solutions, ranging from 
 
 * **Research Area:** Multimodal AI, Computer Vision, OCR, Graph Neural Networks, Medical AI.
 * **Objective:** Developed a multimodal framework for matching physical pills from real-world images with corresponding drug names on medical prescriptions to support medication verification.
-* **Methodology:** Proposed a novel architecture integrating **Vision Transformer (ViT-B/16)**, **Faster R-CNN**, **PP-OCRv3**, **Relational Graph Attention Network (R-GAT)**, and **Multimodal Cross-Attention** for joint visual-textual representation learning.
-* **Dataset:** Evaluated on the **VAIPE** benchmark dataset containing real-world prescription images and pill photographs.
-* **Results:** Achieved **83.47% Top-1 Accuracy**, significantly outperforming the reproduced **PIMA baseline (49.89%)**.
+* **Methodology:** Proposed a novel architecture integrating Vision Transformer (ViT-B/16), Faster R-CNN, PP-OCRv3, Relational Graph Attention Network (R-GAT), and Multimodal Cross-Attention for joint visual-textual representation learning.
+* **Dataset:** Evaluated on the VAIPE benchmark dataset containing real-world prescription images and pill photographs.
+* **Results:** Achieved **83.47%** Top-1 Accuracy, significantly outperforming the reproduced PIMA baseline **(49.89%)**.
 * **Contribution:** Demonstrated the effectiveness of multimodal representation learning and spatial reasoning for healthcare-oriented pill–prescription matching systems.
 
 ---
