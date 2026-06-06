@@ -90,7 +90,7 @@ My focus is on researching and developing real-world AI solutions, ranging from 
 
 ---
 
-### [A Transformer-Based Multimodal Cross-Attention Framework for Pill–Prescription Matching](https://github.com/lap2004/PIMA)
+### [A Transformer-Based Multimodal Cross-Attention Framework for Pill–Prescription Matching](https://github.com/lap2004/PIMA-Vaipe)
 
 *Research Paper – Multimodal Medical AI*
 
