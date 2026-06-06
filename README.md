@@ -1,6 +1,6 @@
 # Hi, I'm Thái Viết Lập (Lap Thai)
 
-### AI Engineer | Computer Vision | LLM & RAG Specialist | Information Systems Student at Van Lang University
+### AI Engineer | Computer Vision | LLM & RAG | Information Systems Student at Van Lang University
 
 I specialize in building intelligent AI systems by combining Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Computer Vision technologies.
 
