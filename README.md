@@ -36,11 +36,15 @@ Tôi tập trung vào việc nghiên cứu và triển khai các hệ thống AI
 - **Công nghệ:** Mô hình siêu nhẹ YOLOv8n-cls (~1.44M params), ảnh chuẩn hóa 256x256. Huấn luyện bằng GPU Tesla T4.
 - **Kết quả:** Đạt Top-1 Accuracy 94.99% sau 15 epochs. Đường loss hội tụ lý tưởng (Perfect Convergence). Tốc độ suy luận siêu tốc 0.5 ms/ảnh (~2,000 FPS), tối ưu cho thiết bị phần cứng hạn chế.
 
-### [Fine-tuning Flan-T5 & Qwen 1.5](https://github.com/lap2004/Psyche-Qwen)
-*Tối ưu hóa mô hình ngôn ngữ cho tác vụ chuyên biệt.*
-- **Dự án 1:** **Flan-T5 Chatbot** - Tinh chỉnh mô hình Flan-T5 để hiểu và phản hồi hội thoại tự nhiên hơn.
-- **Dự án 2:** **Qwen1.5–0.5B Fine-tuning** - Sử dụng kỹ thuật **LoRA/PEFT** để huấn luyện mô hình nhẹ nhưng đạt hiệu suất cao trong các cuộc hội thoại tiếng Việt.
+### [A Transformer-Based Multimodal Cross-Attention Framework for Pill–Prescription Matching](https://github.com/lap2004/PIMA)
 
+*Hệ thống AI đa phương thức hỗ trợ nhận diện và đối sánh thuốc từ ảnh thực tế với đơn thuốc y tế.*
+
+- **Công nghệ:** ViT-B/16, Faster R-CNN, PP-OCRv3, R-GAT, Multimodal Cross-Attention, PyTorch.
+- **Dữ liệu:** Bộ dữ liệu VAIPE gồm ảnh viên thuốc và đơn thuốc thực tế.
+- **Giải pháp:** Kết hợp thị giác máy tính, OCR và Graph Neural Network để học mối quan hệ giữa viên thuốc và thông tin kê đơn.
+- **Kết quả:** Đạt **83.47% Top-1 Accuracy**, cải thiện hơn **33%** so với mô hình PIMA gốc (49.89%).
+- **Nghiên cứu:** Được phát triển trong khuôn khổ bài báo khoa học về Multimodal Medical AI.
 ---
 
 ## Định hướng & Mục tiêu
