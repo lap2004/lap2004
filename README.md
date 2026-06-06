@@ -38,13 +38,14 @@ Tôi tập trung vào việc nghiên cứu và triển khai các hệ thống AI
 
 ### [A Transformer-Based Multimodal Cross-Attention Framework for Pill–Prescription Matching](https://github.com/lap2004/PIMA)
 
-*Hệ thống AI đa phương thức hỗ trợ nhận diện và đối sánh thuốc từ ảnh thực tế với đơn thuốc y tế.*
+*Research Paper – Multimodal Medical AI*
 
-- **Công nghệ:** ViT-B/16, Faster R-CNN, PP-OCRv3, R-GAT, Multimodal Cross-Attention, PyTorch.
-- **Dữ liệu:** Bộ dữ liệu VAIPE gồm ảnh viên thuốc và đơn thuốc thực tế.
-- **Giải pháp:** Kết hợp thị giác máy tính, OCR và Graph Neural Network để học mối quan hệ giữa viên thuốc và thông tin kê đơn.
-- **Kết quả:** Đạt **83.47% Top-1 Accuracy**, cải thiện hơn **33%** so với mô hình PIMA gốc (49.89%).
-- **Nghiên cứu:** Được phát triển trong khuôn khổ bài báo khoa học về Multimodal Medical AI.
+* **Research Area:** Multimodal AI, Computer Vision, OCR, Graph Neural Networks, Medical AI.
+* **Objective:** Developed a multimodal framework for matching physical pills from real-world images with corresponding drug names on medical prescriptions to support medication verification.
+* **Methodology:** Proposed a novel architecture integrating **Vision Transformer (ViT-B/16)**, **Faster R-CNN**, **PP-OCRv3**, **Relational Graph Attention Network (R-GAT)**, and **Multimodal Cross-Attention** for joint visual-textual representation learning.
+* **Dataset:** Conducted experiments on the **VAIPE** benchmark dataset containing prescription images and pill photographs.
+* **Results:** Achieved **83.47% Top-1 Accuracy**, significantly outperforming the reproduced **PIMA baseline (49.89%)**.
+* **Contribution:** Demonstrated the effectiveness of multimodal representation learning and spatial reasoning for healthcare-oriented pill–prescription matching systems.
 ---
 
 ## Định hướng & Mục tiêu
