@@ -1,40 +1,83 @@
 # Hi, I'm Thái Viết Lập (Lap Thai)
-### AI Engineer | LLM & RAG Specialist | K28 CNTT - Văn Lang University
 
-Thế mạnh của tôi là tối ưu hóa mô hình qua **Fine-tuning** và xây dựng kiến trúc **RAG** (Retrieval-Augmented Generation) để giải quyết các bài toán dữ liệu lớn.
-Tôi tập trung vào việc nghiên cứu và triển khai các hệ thống AI thực chiến. Thế mạnh của tôi là sự giao thoa giữa **Xử lý ngôn ngữ tự nhiên** (NLP) và **Thị giác máy tính** (Computer Vision), từ việc tối ưu hóa mô hình qua **Fine-tuning** đến xây dựng kiến trúc **RAG** (Retrieval-Augmented Generation) để giải quyết các bài toán dữ liệu lớn và xây dựng các hệ thống phân tích hình ảnh y tế và công nghiệp chuyên sâu .
+### AI Engineer | LLM & RAG Specialist | Information Systems Student at Van Lang University
 
----
+I specialize in building intelligent AI systems by combining **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **Computer Vision** technologies.
 
-## Kỹ năng chuyên môn
-
-- **LLM Tech:** LangChain, RAG Pipeline, Fine-tuning (LoRA, PEFT), Prompt Engineering, Vision Transformer (ViT), Segment Anything Model (SAM).
-- **Models:** Qwen, Flan-T5, LLaMA, GPT, YOLO (v8/v11), ONNX Runtime.
-- **Backend/AI Ops:** Docker, FastAPI, Flask, ChromaDB, Qdrant,PostgreSQL.
-- **Data/CV:** Tesseract OCR, Selenium, OpenCV, Cvat.ai.
+My focus is on researching and developing real-world AI solutions, ranging from **LLM fine-tuning** and **agentic RAG systems** to advanced **medical and industrial image analysis applications**. I am particularly interested in bridging the gap between **Natural Language Processing (NLP)** and **Computer Vision** to create scalable, practical, and impactful AI products.
 
 ---
 
-## Dự án trọng tâm
+## Technical Skills
 
-### [Chatbot Tư vấn Tuyển sinh Đại học Văn Lang](https://github.com/lap2004/admission-consulting-system)
-*Hệ thống RAG hỗ trợ giải đáp thông tin tuyển sinh tự động.*
-- **Demo:** [https://vlu-chatbot.vercel.app](https://vlu-chatbot.vercel.app/)
-- **Công nghệ:** RAG, PostgreSQL (Vector DB), Tesseract OCR để xử lý file PDF/Web, Docker.
-- **Giải pháp:** Xây dựng pipeline xử lý dữ liệu từ nhiều nguồn (PDF, Web crawling) và cung cấp câu trả lời chính xác dựa trên ngữ cảnh thực tế của trường.
+### AI & LLM Technologies
 
-### [Chatbot Voice AI Bác sĩ](https://github.com/lap2004/ai-medical-chatbot)
-*Trợ lý ảo y tế tương tác qua giọng nói.*
-- **Demo:** [https://kltn-vlu.vercel.app/](https://kltn-vlu.vercel.app/)
-- **Công nghệ:** Speech-to-Text (STT), Text-to-Speech (TTS), LLM Inference.
-- **Tính năng:** Cho phép người dùng giao tiếp bằng giọng nói, chatbot phân tích triệu chứng và đưa ra lời khuyên y tế sơ bộ nhanh chóng.
+* LangChain
+* Retrieval-Augmented Generation (RAG)
+* Prompt Engineering
+* Fine-tuning (LoRA, PEFT)
+* Vision Transformer (ViT)
+* Segment Anything Model (SAM)
 
-### [COVID-19 Radiography - Hệ thống sàng lọc bệnh lý hô hấp](https://github.com/lap2004/COVID-19-Radiography)
-*Phân loại tự động tổn thương phổi (COVID-19, Lung Opacity, Viral Pneumonia, Normal) từ ảnh Chest X-Ray.*
-- **Demo:** [https://huggingface.co/spaces/lap2004/COVID-19-Radiography](https://huggingface.co/spaces/lap2004/COVID-19-Radiography)
-- **Dữ liệu:** 21,165 ảnh từ bộ dữ liệu chuẩn quốc tế COVID-19 Radiography Database trên Kaggle (tỷ lệ 80% Train / 20% Val).
-- **Công nghệ:** Mô hình siêu nhẹ YOLOv8n-cls (~1.44M params), ảnh chuẩn hóa 256x256. Huấn luyện bằng GPU Tesla T4.
-- **Kết quả:** Đạt Top-1 Accuracy 94.99% sau 15 epochs. Đường loss hội tụ lý tưởng (Perfect Convergence). Tốc độ suy luận siêu tốc 0.5 ms/ảnh (~2,000 FPS), tối ưu cho thiết bị phần cứng hạn chế.
+### AI Models
+
+* Qwen
+* Flan-T5
+* LLaMA
+* GPT
+* YOLO (v8/v11)
+* ONNX Runtime
+
+### Backend & AI Deployment
+
+* FastAPI
+* Flask
+* Docker
+* PostgreSQL
+* ChromaDB
+* Qdrant
+
+### Data Processing & Computer Vision
+
+* OpenCV
+* Tesseract OCR
+* Selenium
+* CVAT
+
+---
+
+## Featured Projects
+
+### [Van Lang University Admission Consulting Chatbot](https://github.com/lap2004/admission-consulting-system)
+
+*RAG-powered chatbot for automated university admission consultation.*
+
+* **Demo:** https://vlu-chatbot.vercel.app
+* **Technologies:** RAG, PostgreSQL (Vector Database), Tesseract OCR, Docker.
+* **Solution:** Developed a data processing pipeline capable of extracting and indexing information from PDFs and web sources, enabling accurate context-aware responses for prospective students.
+
+---
+
+### [AI Voice Medical Assistant](https://github.com/lap2004/ai-medical-chatbot)
+
+*Voice-enabled AI healthcare assistant.*
+
+* **Demo:** https://kltn-vlu.vercel.app
+* **Technologies:** Speech-to-Text (STT), Text-to-Speech (TTS), LLM Inference.
+* **Features:** Enables natural voice interactions, symptom analysis, and preliminary healthcare guidance through conversational AI.
+
+---
+
+### [COVID-19 Radiography Classification System](https://github.com/lap2004/COVID-19-Radiography)
+
+*Automated respiratory disease classification from Chest X-Ray images.*
+
+* **Demo:** https://huggingface.co/spaces/lap2004/COVID-19-Radiography
+* **Dataset:** 21,165 Chest X-Ray images from the COVID-19 Radiography Database (80% training, 20% validation).
+* **Technologies:** YOLOv8n-cls (~1.44M parameters), 256×256 image preprocessing, Tesla T4 GPU training.
+* **Results:** Achieved **94.99% Top-1 Accuracy** after 15 epochs with excellent convergence behavior and ultra-fast inference speed of approximately **0.5 ms/image (~2,000 FPS)**, making it suitable for resource-constrained environments.
+
+---
 
 ### [A Transformer-Based Multimodal Cross-Attention Framework for Pill–Prescription Matching](https://github.com/lap2004/PIMA)
 
@@ -43,19 +86,27 @@ Tôi tập trung vào việc nghiên cứu và triển khai các hệ thống AI
 * **Research Area:** Multimodal AI, Computer Vision, OCR, Graph Neural Networks, Medical AI.
 * **Objective:** Developed a multimodal framework for matching physical pills from real-world images with corresponding drug names on medical prescriptions to support medication verification.
 * **Methodology:** Proposed a novel architecture integrating **Vision Transformer (ViT-B/16)**, **Faster R-CNN**, **PP-OCRv3**, **Relational Graph Attention Network (R-GAT)**, and **Multimodal Cross-Attention** for joint visual-textual representation learning.
-* **Dataset:** Conducted experiments on the **VAIPE** benchmark dataset containing prescription images and pill photographs.
+* **Dataset:** Evaluated on the **VAIPE** benchmark dataset containing real-world prescription images and pill photographs.
 * **Results:** Achieved **83.47% Top-1 Accuracy**, significantly outperforming the reproduced **PIMA baseline (49.89%)**.
 * **Contribution:** Demonstrated the effectiveness of multimodal representation learning and spatial reasoning for healthcare-oriented pill–prescription matching systems.
----
-
-## Định hướng & Mục tiêu
-- **LLM Engineering:** Phát triển các hệ thống Agentic RAG (AI có khả năng tự suy luận và thực hiện hành động).
-- **AI Deployment:** Tối ưu hóa việc triển khai mô hình LLM trên các thiết bị phần cứng hạn chế.
-
-## Kết nối với tôi
-- **Email:** [lapthai03@gmail.com](mailto:lapthai03@gmail.com)
-- **LinkedIn:** [linkedin.com/in/lap-thai-912210317/](https://www.linkedin.com/in/lap-thai-912210317/)
-- **GitHub:** [github.com/lap2004](https://github.com/lap2004)
 
 ---
-*“Biến những dòng code thành giải pháp AI mang lại giá trị thực tế.”*
+
+## Career Interests
+
+* **LLM Engineering:** Building advanced Agentic RAG systems capable of reasoning, planning, and executing actions autonomously.
+* **AI Deployment:** Optimizing and deploying AI models efficiently on edge devices and resource-constrained environments.
+* **Multimodal AI:** Combining language, vision, and structured knowledge for next-generation intelligent systems.
+* **Medical AI:** Developing AI-powered solutions for healthcare decision support and medical image analysis.
+
+---
+
+## Connect With Me
+
+* **Email:** [lapthai03@gmail.com](mailto:lapthai03@gmail.com)
+* **LinkedIn:** https://www.linkedin.com/in/lap-thai-912210317
+* **GitHub:** https://github.com/lap2004
+
+---
+
+*"Turning lines of code into AI solutions that create real-world impact."*
