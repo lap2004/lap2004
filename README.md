@@ -10,40 +10,51 @@ My focus is on researching and developing real-world AI solutions, ranging from 
 
 ## Technical Skills
 
-### AI & LLM Technologies
+### Large Language Models (LLMs) & Generative AI
 
-* LangChain
-* Retrieval-Augmented Generation (RAG)
-* Prompt Engineering
-* Fine-tuning (LoRA, PEFT)
-* Vision Transformer (ViT)
-* Segment Anything Model (SAM)
+* **RAG Systems:** LangChain, Vector Search, Knowledge Retrieval, Context Engineering.
+* **LLM Fine-tuning:** LoRA, PEFT, Instruction Tuning, Parameter-Efficient Training.
+* **Prompt Engineering:** Prompt Design, Chain-of-Thought (CoT), Agent Workflows.
+* **Models:** Qwen, LLaMA, Flan-T5, GPT Family.
+* **AI Applications:** Conversational AI, Knowledge Assistants, Voice AI Systems, Agentic RAG.
 
-### AI Models
+### Computer Vision & Multimodal AI
 
-* Qwen
-* Flan-T5
-* LLaMA
-* GPT
-* YOLO (v8/v11)
-* ONNX Runtime
+* **Object Detection & Classification:** YOLOv8, YOLOv11.
+* **Vision Foundation Models:** Vision Transformer (ViT), Segment Anything Model (SAM).
+* **Medical Imaging:** Chest X-Ray Classification, Healthcare AI Applications.
+* **Multimodal Learning:** Vision-Language Models, Cross-Attention Architectures, OCR Integration.
+* **Image Processing:** OpenCV, Data Annotation, Dataset Preparation.
 
-### Backend & AI Deployment
+### Machine Learning & Deep Learning
 
-* FastAPI
-* Flask
-* Docker
-* PostgreSQL
-* ChromaDB
-* Qdrant
+* **Frameworks:** PyTorch, Hugging Face Transformers.
+* **Model Optimization:** ONNX Runtime, Quantization, Inference Acceleration.
+* **Training Techniques:** Transfer Learning, Fine-tuning, Hyperparameter Optimization.
+* **Evaluation:** Classification Metrics, Model Validation, Ablation Studies.
 
-### Data Processing & Computer Vision
+### Backend Development & AI Deployment
 
-* OpenCV
-* Tesseract OCR
-* Selenium
-* CVAT
+* **API Development:** FastAPI, Flask.
+* **Containerization:** Docker.
+* **Database Systems:** PostgreSQL.
+* **Vector Databases:** ChromaDB, Qdrant.
+* **Deployment:** Model Serving, REST APIs, AI System Integration.
 
+### Data Engineering & Automation
+
+* **OCR & Document Processing:** Tesseract OCR, PP-OCR.
+* **Web Automation & Crawling:** Selenium.
+* **Data Collection & Preparation:** Data Cleaning, Annotation, ETL Pipelines.
+* **Annotation Tools:** CVAT.
+
+### Research & Engineering Practices
+
+* Research-Oriented Development
+* Experimental Design & Benchmarking
+* Scientific Writing & Paper Reproduction
+* Git & Version Control
+* End-to-End AI System Development
 ---
 
 ## Featured Projects
